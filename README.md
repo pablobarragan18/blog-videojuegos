@@ -1,4 +1,4 @@
-# 🎮 VideoJuegos - Sitio Web Temático
+# 🎮 Blog VideoJuegos - Sitio Web Temático
 
 Proyecto web desarrollado durante mis primeros semestres de formación en programación web.  
 Aunque originalmente fue planteado como una actividad académica en Blogger, decidí desarrollarlo completamente con HTML y CSS en lugar de utilizar plataformas prefabricadas.
